@@ -114,6 +114,8 @@
     <p>Username</p>
     <input type="text" name="username" id="username">
     <span><?php echo $usernameError; ?></span>
+    <br>
+    <br>
     <input type="password" name="password" id="pass">
     <span><?php echo $passwordError; ?></span>
     <br>
